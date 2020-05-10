@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "624065145205",
+    "firebase_url": "https://watertesttask.firebaseio.com",
+    "project_id": "watertesttask",
+    "storage_bucket": "watertesttask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624065145205:android:655b5587920208db5fcb3c",
+        "android_client_info": {
+          "package_name": "com.example.watertesttask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624065145205-q72nbk9il3g1ib75ojhnp1f84opqjrls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvTxG48GvQ2DBLPZYRN0y7aMsk34B4jJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624065145205-q72nbk9il3g1ib75ojhnp1f84opqjrls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

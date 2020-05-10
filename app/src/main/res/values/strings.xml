@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WaterTestTask</string>
+    <string name="set_amount_of_glasses">Set amount of glasses</string>
+    <string name="apply">Apply</string>
+    <string name="permission_denyed">You are not able to use this app without storage permission</string>
+</resources>

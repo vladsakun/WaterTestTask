@@ -1,0 +1,2 @@
+rootProject.name='WaterTestTask'
+include ':app'
